@@ -2,7 +2,7 @@
 
 # Airbnb-Data-Analytics
 
-![alt text](https://raw.githubusercontent.com/david880110/Gaming-Profit-Analysis/master/image/Fantasy.jpg)
+![alt text](https://raw.githubusercontent.com/david880110/Airbnb-Data-Analytics/master/image/airbnb-logo.jpg)
 
 <p align="center">
   • <a href="#findings">Findings</a>
