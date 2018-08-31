@@ -1,0 +1,215 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+22772,Getaway at Lovers Pt. Pacific Grv,87827,Amie,,Pacific Grove,36.622579561738,-121.91679824404707,Entire home/apt,299,29,68,2016-08-01,0.68,1,83
+41014,Ocean front 6-bedroom masterpiece,174738,Kirstie,,Pacific Grove,36.63241765619369,-121.93790760074802,Entire home/apt,1100,2,81,2018-06-06,0.92,1,185
+44515,Pet-Friendly* Cottage Near Beach (PG Lic#0090),195732,Erika & Blake,,Pacific Grove,36.6258296464783,-121.9341536639528,Entire home/apt,150,2,714,2018-07-19,7.38,1,122
+89210,"CA Dreaming w/Ocean View, King Bed, Gardens",130577,Sarah,,Pacific Grove,36.60438275256319,-121.92720687653838,Entire home/apt,135,1,841,2018-07-28,9.47,1,262
+857942,"Lovely Studio, walk to Lovers Point  Lic#0367",4488236,Virginia,,Pacific Grove,36.624812754289145,-121.92012535540053,Entire home/apt,167,2,105,2018-07-15,1.59,1,319
+1031734,"Top Rated,Ocean View,Spa,Fireplace",227482,Dan,,Pacific Grove,36.60324327855821,-121.92723105499323,Entire home/apt,500,1,156,2018-07-30,2.46,1,258
+1721177,Ocean View Townhome at Lover's Pt.,9073236,Barb,,Pacific Grove,36.62366594164817,-121.91558908269506,Entire home/apt,425,1,201,2018-07-26,3.43,2,307
+1721186,Beautiful Villa With Ocean View,9073236,Barb,,Pacific Grove,36.62455488129884,-121.91660092361909,Entire home/apt,389,1,114,2018-07-15,1.98,2,326
+1856739,"Vacation condo in Pacific Grove/Monterey, CA",2555967,Pam,,Pacific Grove,36.622591429489034,-121.9183997796324,Entire home/apt,180,1,0,,,1,0
+1909416,Historic John Steinbeck's Cottage,5517174,Kevin & Vicky,,Pacific Grove,36.61458272125907,-121.91033339550467,Entire home/apt,230,2,187,2018-07-17,3.29,1,200
+1918627,"Pacific Grove Blue House, Walk to Town and Beach!",9946932,Maria,,Pacific Grove,36.61594064439376,-121.92017696864887,Entire home/apt,225,2,376,2018-07-08,6.57,1,98
+1967404,Private Cottage - Concours d’elegance -,4076733,Carol,,Pacific Grove,36.605813887210616,-121.91680878475925,Entire home/apt,75,30,40,2017-03-31,0.73,1,349
+2079346,Fab Ocean Views-Great Location-Quality everything,10624036,Merry,,Pacific Grove,36.61939533364329,-121.91121408653692,Entire home/apt,235,2,7,2018-07-12,1.06,5,110
+2372344,"30 Day Min. Stay, Casa Amarilla , Walk to Aquarium",12118997,Guita,,Pacific Grove,36.6146111171729,-121.90999966478076,Entire home/apt,129,30,73,2017-09-04,1.35,2,335
+2612524,A Lovely Room in Center Monterey Bay,10752409,Michelle,,Pacific Grove,36.6133255080747,-121.91235855290783,Private room,69,1,115,2018-07-16,2.18,1,315
+3029273,"Modern Beach House, Aquarium passes",15429359,Jim,,Pacific Grove,36.63256030478962,-121.92524862155184,Entire home/apt,215,1,208,2018-07-29,4.35,1,267
+3249857,Private bedroom in beautiful house,4368207,Cindy,,Pacific Grove,36.61590663395104,-121.90963235283769,Private room,100,1,0,,,1,0
+3457025,Pacific Grove Spacious Victorian with views!,17421867,Karen,,Pacific Grove,36.61946917455412,-121.91653508674831,Entire home/apt,300,2,21,2018-07-26,3.68,1,67
+3821616,"Bright Beach Cottage, Downtown, Modern, Biz-Ready",16838120,Alka,,Pacific Grove,36.622372062841855,-121.9190696417916,Entire home/apt,225,2,340,2018-07-16,7.15,2,327
+3836973,Lovely House in Pacific Grove (License # 0194),19763195,Paul,,Pacific Grove,36.60526958388532,-121.92805306612425,Entire home/apt,250,1,341,2018-07-30,7.09,1,298
+4099680,The Monarch Home - Cozy & Relaxing,5508442,Anne & Natasha,,Pacific Grove,36.62260192064945,-121.93080985044003,Entire home/apt,260,2,305,2018-07-23,6.76,1,267
+4162387,The Little Blue House,14299946,Joy,,Pacific Grove,36.62156438645134,-121.92043402631136,Entire home/apt,180,1,370,2018-07-20,8.20,2,285
+4269074,760 Ocean View at Lovers Point Park,22162277,Grace,,Pacific Grove,36.627205973621976,-121.91983699979244,Entire home/apt,495,3,29,2018-04-30,0.64,1,31
+4291804,"Walk to Aquarium,Cannery Row,Rest",12118997,Guita,,Pacific Grove,36.61564598232478,-121.90903413438173,Entire home/apt,180,30,50,2017-12-24,1.21,2,359
+4436534,Quiet Ocean View Pacific Grove Cottage Lic.#0201,22933425,Jeanne,,Pacific Grove,36.63232585622275,-121.92567230967292,Entire home/apt,500,7,8,2018-06-17,0.18,2,200
+4697656,Peaceful in Pacific Grove. Close to beach & town,24285186,Stacey,,Pacific Grove,36.615073125075824,-121.92261178850283,Private room,105,2,49,2017-12-03,1.94,1,0
+5185545,Peaceful Cozy Beach Cottage (Lic#: 0213),21424068,Sarah,,Pacific Grove,36.63192584869902,-121.92454413817075,Entire home/apt,170,2,246,2018-07-20,5.94,1,74
+5238711,"Penthouses Walk to Beach, 4 Aquarium Passes",14806795,Kristina,,Pacific Grove,36.61944970895826,-121.91408669715406,Entire home/apt,595,6,20,2018-07-15,0.54,2,330
+5262713,"Pacific Grove PG Beach Haven, License # 202",27188308,John,,Pacific Grove,36.62105613835557,-121.92223215215591,Entire home/apt,179,1,294,2018-07-29,7.11,1,289
+5500336,Little Lighthouse — Ocean views & close to town!,18067665,"Jim,Stacey,Gary,Lynea,Amy,&Michael",,Pacific Grove,36.61859146776587,-121.91086419778692,Entire home/apt,225,2,139,2018-07-23,3.38,2,132
+5640289,Three Seas Cottage (Lic#0236),25393831,Kevin And Julia,,Pacific Grove,36.607738791093446,-121.9237017799327,Entire home/apt,245,2,146,2018-07-15,3.82,1,121
+5807126,Lighthouse Cottage—Ocean Views & Close to town,18067665,"Jim,Stacey,Gary,Lynea,Amy,&Michael",,Pacific Grove,36.619554761994955,-121.90998588006569,Entire home/apt,325,2,163,2018-07-22,4.17,2,109
+5860442,Pacific Grove Craftsman Getaway,22064531,David And Kelly,,Pacific Grove,36.61584359557675,-121.91630503221027,Private room,149,1,459,2018-07-30,11.60,1,238
+6018499,Charming ocean view cottage in PG for tidy guests!,1769997,Marianne,,Pacific Grove,36.61732639945905,-121.9127250415959,Entire home/apt,340,2,67,2018-07-25,1.67,1,147
+6410088,Walk to Asilomar,4622744,Ahnalisa,,Pacific Grove,36.625050186987785,-121.9266151619602,Entire home/apt,756,2,50,2018-07-22,1.33,1,156
+6646306,Peaceful Space near DLI + Cannery Row,33787736,Seth + Wendy,,Pacific Grove,36.61493504678062,-121.91548752149833,Private room,99,2,155,2018-07-15,4.06,1,45
+6688144,Our Home Near Asilomar Beach #0224,33200182,Danielle And Gabriel,,Pacific Grove,36.61411745199921,-121.92683689749292,Entire home/apt,279,2,85,2018-07-16,2.24,1,247
+7104624,Heritage Home,37223357,Jeff &. Carol,,Pacific Grove,36.621707532920276,-121.92174987219323,Entire home/apt,425,30,16,2018-03-30,0.44,1,25
+7126880,Charming Victorian in great locale,37329304,David,,Pacific Grove,36.62030792667437,-121.92377306475147,Entire home/apt,275,2,53,2018-07-18,1.45,1,273
+7292129,"~Darling Cottage, Walk to Town, Walk to Beach~",14806795,Kristina,,Pacific Grove,36.62134333633364,-121.9259855965178,Entire home/apt,315,3,59,2018-07-24,1.64,2,315
+7327017,Classic Craftsman on Lighthouse Ave,38383796,Erlinda,,Pacific Grove,36.62468345457317,-121.92323690818691,Entire home/apt,300,2,36,2018-07-16,1.02,1,298
+7462535,2 Cottages in Private Garden: Sleeps 4+ Kids & Dog,8334086,Mel,,Pacific Grove,36.616171147176026,-121.91343117783943,Entire home/apt,199,3,55,2018-07-09,1.53,1,87
+7622828,Mediterranean Luxury Beach Home,39986530,Happy,,Pacific Grove,36.63249534337566,-121.93379611706821,Entire home/apt,795,2,68,2018-07-08,1.89,2,316
+7689901,Breathtaking Ocean Front 2 Bed 2 Bath Award Winner,21702753,Kelly,,Pacific Grove,36.620654307564685,-121.90707435877529,Entire home/apt,495,2,106,2018-07-30,3.09,1,108
+7698728,Dutches by the Sea,40437652,Jonathan,,Pacific Grove,36.631118144044,-121.92376175423098,Private room,295,4,2,2017-08-19,0.08,2,8
+7836291,Victorian Retreat,41275685,Carol,,Pacific Grove,36.61399518868365,-121.91173883694223,Entire home/apt,200,30,0,,,1,88
+7842731,The Matcha House (Lic#0223),41323269,Eddie & Miko,,Pacific Grove,36.600926700038706,-121.92769874023489,Entire home/apt,198,2,123,2018-07-15,3.42,1,297
+8035008,Artist's Arts & Crafts Spa Retreat by the Bay,9060064,Rebecca,,Pacific Grove,36.61585751528536,-121.9205854310033,Entire home/apt,200,1,62,2018-06-25,2.16,1,338
+8104325,Coastal Getaway for Family or Group,42790415,Kristy And Ed,,Pacific Grove,36.62938792570624,-121.9307037308263,Entire home/apt,350,4,82,2018-06-21,2.32,1,234
+8206801,Pacific grove gem,42919468,Michael,,Pacific Grove,36.604358767804946,-121.91990418111013,Entire home/apt,195,2,1,2018-05-27,0.45,1,53
+8992866,Cozy Monterey Home with a Bay View!,46973805,Heather,,Pacific Grove,36.61481735883071,-121.90860967607108,Entire home/apt,132,29,111,2018-06-11,3.87,1,356
+9012578,1 Bed/1Bath house/Dining area/living room/kitchen,16746377,John,,Pacific Grove,36.62183902721973,-121.91375220064432,Entire home/apt,200,1,294,2018-07-30,8.84,1,233
+9028761,Charming Asilomar Beach Retreat,31605798,Karen,,Pacific Grove,36.622844404481064,-121.93188726306926,Entire home/apt,450,2,62,2017-09-24,2.29,1,0
+9217124,Kate's Beach Cottage,17383011,Tom And Laurence,,Pacific Grove,36.62025424625581,-121.91487501259535,Entire home/apt,220,2,160,2018-07-15,5.07,1,86
+9574239,COMFORTABLE HISTORIC COTTAGE,43389940,Elizabeth,,Pacific Grove,36.62214413490936,-121.92686911418159,Entire home/apt,238,2,215,2018-07-23,6.58,2,115
+10107211,"Little Gem @ Asilomar,Off 17 Mile Dr. 2 MBA passes",15033445,Joan,,Pacific Grove,36.617116878678225,-121.92953189635162,Entire home/apt,235,2,131,2018-07-29,4.38,1,311
+10204512,Gable Room - Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62416940291694,-121.91494987002612,Private room,259,1,3,2018-04-28,0.10,12,275
+11210583,Bungalow-by-the-Sea,58388459,Michele,,Pacific Grove,36.62398574236337,-121.92088930494276,Entire home/apt,265,2,38,2018-07-08,1.61,2,331
+11219617,Pacific Grove Ocean Sanctuary,58455451,Don,,Pacific Grove,36.60724133787897,-121.91994226119792,Entire home/apt,260,7,21,2018-07-08,0.75,1,195
+11256490,Historic Stylish Beach House,29370567,Wendi,,Pacific Grove,36.621539513284375,-121.91499549848074,Entire home/apt,240,2,75,2018-07-29,2.63,1,291
+11305882,Lovers Point Cottage,59107155,Heather,,Pacific Grove,36.63053940659792,-121.92526177576947,Entire home/apt,350,2,38,2018-06-21,1.31,1,45
+11345348,Tranquillity,3190087,Monterey Bay Vacation Rentals,,Pacific Grove,36.59971971326168,-121.94123908359019,Entire home/apt,199,30,0,,,2,101
+11478979,Award Winning - 'PG'S FINEST' ~ Villa Luz,60409565,Alisa,,Pacific Grove,36.623208066025214,-121.92327210282231,Entire home/apt,243,3,53,2018-07-22,2.08,2,82
+11533508,Steps away from Lover's Point beach,60832361,Terre,,Pacific Grove,36.62571185043075,-121.91740143115297,Entire home/apt,195,3,104,2018-07-20,3.90,1,222
+11562419,Beautiful Home Beach/Forest Area    PG Lic #0154,61071397,Richard,,Pacific Grove,36.62110860193788,-121.92793350584934,Entire home/apt,222,2,44,2018-07-17,1.69,1,251
+11641733,Comfortable home in the pines,8292488,Abby,,Pacific Grove,36.60431783385642,-121.92773572220538,Entire home/apt,282,4,33,2017-10-15,1.22,1,0
+11680976,"Sea Lion House, Walk to Beach/Shops/Aquarium",62048305,Christine (Sea Lion Properties LLC),,Pacific Grove,36.61812489244187,-121.91664944636251,Entire home/apt,345,2,84,2018-07-27,3.11,1,50
+12027823,1/2 Block to Ocean-Sea View Cottage: 2 Bedroom Suite - Seven Gables Full Service Inn,46785054,Seven Gables,,Pacific Grove,36.623588802322594,-121.91602026341982,Entire home/apt,569,1,4,2018-07-01,0.17,12,274
+12053553,Dutches-By-The-Sea,40437652,Jonathan,,Pacific Grove,36.62969934926653,-121.9239284557606,Entire home/apt,245,3,27,2018-07-06,0.96,2,78
+12848742,Quaint Coastal Cottage ~ Close to town and beach,70177452,Michael & Amy,,Pacific Grove,36.61650717588476,-121.9134738618039,Entire home/apt,225,2,110,2018-07-27,4.05,2,134
+13004268,Nice 1 bedroom apt with pool,71239308,Belle,,Pacific Grove,36.606121553771075,-121.92477621691432,Entire home/apt,89,49,0,,,1,358
+13261592,Bright Family Home Near Asilomar Beach & Park 0318,54293045,Amy,,Pacific Grove,36.61622447256369,-121.92902187913003,Entire home/apt,80,2,7,2017-09-16,0.27,1,0
+13328382,Chautauqua Room - Seven Gables Full Service Inn,46785054,Seven Gables,,Pacific Grove,36.623084658700584,-121.91652533944426,Private room,219,1,2,2018-07-03,0.08,12,284
+13428610,Romantic Private  Master Suite & Gardens #0427,22933425,Jeanne,,Pacific Grove,36.63415469296506,-121.92423953970814,Private room,265,2,11,2018-04-29,0.44,2,86
+13710512,Vacation Get Away,61333960,Kelly & Ken,,Pacific Grove,36.615225772861166,-121.91121781572524,Entire home/apt,150,2,92,2018-07-21,3.80,1,26
+13715244,New Cottage ~ Walk To Beach & Town (PG Lic. #0282),24238821,Jessica,,Pacific Grove,36.61756753197643,-121.92037080441033,Entire home/apt,245,2,65,2018-07-28,2.59,1,99
+13768901,QUAINT PACIFIC GROVE/PEBBLE BEACH,11486908,Elaine,,Pacific Grove,36.61667543947931,-121.92614088682333,Private room,95,1,282,2018-07-28,11.15,1,254
+13902577,"Charming Victorian House, Lover's Point",82415359,Wilson,,Pacific Grove,36.62533477724779,-121.91879285372092,Entire home/apt,398,2,32,2018-07-27,1.33,1,285
+14266085,Cottage Retreat Steps from the Sea,10851823,Viveca And Jim,,Pacific Grove,36.62209881491568,-121.91185925113885,Entire home/apt,275,1,163,2018-07-27,6.71,1,306
+14268305,"Sea Whisper-Ocean Views! Cannery Row, 4 Bikes!",86970024,Phil,,Pacific Grove,36.612884699119974,-121.909847549959,Entire home/apt,200,30,15,2017-08-21,0.63,1,363
+14292607,Beach House,80125433,Alii,,Pacific Grove,36.63648099792682,-121.93192874938032,Private room,225,30,0,,,1,88
+14302227,Ocean views and perfect sunsets,56250352,Karolien,,Pacific Grove,36.62925480309578,-121.930548668688,Entire home/apt,180,2,4,2017-08-22,0.17,2,1
+14388930,Guest House 5 minutes to Asilomar and Pebble Beach,14882503,Richard,,Pacific Grove,36.62257349156951,-121.93442065536333,Entire home/apt,195,3,24,2018-07-19,1.35,1,238
+14403615,Dolphin House * cozy fireplace  * great location,88554111,Beverlee,,Pacific Grove,36.61867751057824,-121.91081025963233,Entire home/apt,330,2,84,2018-07-22,3.55,1,209
+14475122,California on the Beach Retreat,39986530,Happy,,Pacific Grove,36.62356937079838,-121.94005295025597,Entire home/apt,495,2,35,2018-07-17,1.51,2,352
+14539067,Pacific Grove/Pebble Beach with freebies! 0355,85355446,Dee,,Pacific Grove,36.62707191328206,-121.93199078087332,Entire home/apt,126,2,101,2018-07-23,4.27,1,159
+14629338,The Mermaid House -Cozy 1928 California Bungalow,25277958,Mary,,Pacific Grove,36.621954497330265,-121.91248520497025,Entire home/apt,175,2,49,2018-07-06,2.16,1,88
+14709038,Studio near quiet beaches and beautiful sunsets,56250352,Karolien,,Pacific Grove,36.628616944132936,-121.93215562581648,Entire home/apt,90,2,4,2017-09-17,0.18,2,3
+14804837,"Steps to town and beach, Remodeled 2br 1ba",6132253,Ben,,Pacific Grove,36.624110623611585,-121.9218767758341,Entire home/apt,200,2,183,2018-07-19,8.26,1,199
+15165034,No shared space! Private room/bathroom! PGLic#0405,35048383,Josh And Angi,,Pacific Grove,36.60382560368985,-121.92710366145344,Private room,99,1,241,2018-07-15,11.19,1,43
+15205029,Sea la Vie Cottage ..a gem respite,60409565,Alisa,,Pacific Grove,36.62386981585287,-121.92324826245023,Entire home/apt,206,3,47,2018-07-16,2.23,2,195
+15328797,Charming Cottage near Downtown and the Beach,5804744,Jesse,,Pacific Grove,36.62129236309567,-121.92105814270201,Entire home/apt,200,2,132,2018-07-29,6.18,1,189
+15522012,Pet friendly Forest and Sea Cottage Lic.#0358,99785912,Jeanie,,Pacific Grove,36.617881365775176,-121.93063661578206,Entire home/apt,250,1,66,2018-07-29,3.06,1,12
+15649395,Central to Everything - Casa Mariposa,100986890,Jon & Julie,,Pacific Grove,36.620241332015524,-121.92770016463021,Entire home/apt,295,2,16,2018-07-15,0.82,1,210
+15775735,"La Mer Cottage, our home by the sea.",70177452,Michael & Amy,,Pacific Grove,36.616765980496716,-121.91412729811837,Entire home/apt,275,2,105,2018-07-29,5.12,2,109
+15857785,Heart of PG Cottage,102767409,Joy,,Pacific Grove,36.62133210507529,-121.92037682338271,Entire home/apt,265,1,144,2018-07-27,7.05,1,309
+15942471,Comfortable Home Close To Many Attractions,102438701,Lisa,,Pacific Grove,36.6009180065916,-121.93316683765829,Entire home/apt,425,2,29,2018-07-23,1.51,1,141
+16159868,Center of Pacific Grove Apt w/ Aquarium Tickets,105477954,Lawrence,,Pacific Grove,36.62175135423882,-121.91884945216631,Entire home/apt,200,1,11,2017-05-28,0.68,1,0
+16256158,PRE CHRISTMAS SPECIAL! Great Townhouse near Beach!,9583968,Joanne,,Pacific Grove,36.62946942134428,-121.93017432843627,Entire home/apt,201,1,0,,,1,0
+16476278,Ocean View At Lovers Point Mermaid Cottage,2360802,Sean Matthew,,Pacific Grove,36.62788488151103,-121.9206405801123,Entire home/apt,219,1,17,2018-07-15,0.90,1,269
+16542967,"Lovers Point Beach House, Perfect Location",99683621,Larry,,Pacific Grove,36.62331852775164,-121.91631835303667,Entire home/apt,390,3,6,2018-07-01,0.34,1,53
+16884158,Ocean Front  on Ocean View Blvd,58271767,Evelyn,,Pacific Grove,36.63656742115517,-121.93001808778118,Entire home/apt,375,2,35,2018-07-12,2.22,1,255
+16932154,M & M's Cottage,113131164,Michelle,,Pacific Grove,36.615436728457205,-121.92352356593477,Entire home/apt,325,2,19,2018-05-01,1.05,1,252
+16960425,Gorgeous View of Ocean and Golf Course,95005119,Rebecca,,Pacific Grove,36.63550145049145,-121.92990032140402,Entire home/apt,375,4,0,,,1,0
+16999624,Adorable Sea House,694968,Dean,,Pacific Grove,36.619811971374446,-121.90727025043435,Entire home/apt,450,3,27,2018-07-23,1.75,1,133
+17094423,Best PG Charmer - Two FREE Aquarium Passes!,1254160,Yvette,,Pacific Grove,36.621403198942005,-121.92266020865154,Entire home/apt,250,2,3,2018-05-01,0.23,1,313
+17160049,"Downtown, Family & Biz friendly, Walk to Beach",16838120,Alka,,Pacific Grove,36.62271304059197,-121.9216722911259,Entire home/apt,320,2,104,2018-07-16,5.92,2,223
+17417237,"7th Heaven in Pacific Grove, CA",110664679,Rhonda,,Pacific Grove,36.61950964764931,-121.91020799143331,Entire home/apt,225,2,39,2018-07-29,2.26,3,294
+17435310,Asilomar Ocean Retreat,49369780,Fatijah,,Pacific Grove,36.6211225952841,-121.93365770961722,Entire home/apt,389,5,9,2018-05-27,0.57,1,278
+17623471,Pacific Grove Mid Century Near Beach,4591051,Dave & Lee,,Pacific Grove,36.6227040697642,-121.93055945460645,Entire home/apt,250,3,75,2018-07-30,4.61,1,274
+17642147,Rosie's View,120012255,Bryan And Rosie,,Pacific Grove,36.62613389341038,-121.92125816017406,Entire home/apt,275,1,99,2018-07-25,5.94,1,322
+17749391,Pacific Grove Casa Del Mar,121097865,Marci,,Pacific Grove,36.62101589092423,-121.90757572178681,Entire home/apt,550,3,9,2018-07-11,0.55,1,129
+18707259,Pacific Grove Retreat,130003926,Susan,,Pacific Grove,36.62723797106164,-121.93356336768194,Entire home/apt,750,3,21,2018-07-02,1.60,1,300
+18731829,Monarch Garden Cottage 30 Day Rental,21807468,Suzanne,,Pacific Grove,36.61831043957474,-121.9098620609947,Entire home/apt,50,30,45,2018-05-31,3.09,1,14
+18814170,Ocean Views and New in 2017,10624036,Merry,,Pacific Grove,36.61670411299712,-121.91176124724706,Entire home/apt,329,2,65,2018-07-29,4.55,5,129
+18917071,Post-Adobe Charmer 2bed/1bath (Lic#: 0387),128301422,Carolyn,,Pacific Grove,36.6066606770776,-121.92253036858041,Entire home/apt,165,2,70,2018-07-27,4.90,2,118
+19053738,"Seashell in Pacific Grove, CA",110664679,Rhonda,,Pacific Grove,36.61643295959287,-121.90931575824544,Entire home/apt,132,3,41,2018-07-29,3.01,3,326
+19137340,"Pacific Grove Willis House, Walk to Town and Beach",133766053,Chris,,Pacific Grove,36.618844145312906,-121.92375532089596,Entire home/apt,325,2,29,2018-07-17,2.12,1,6
+19179883,New Gorgeous Remodel w/ Huge Patio & BBQ-,10624036,Merry,,Pacific Grove,36.617760378101885,-121.9116542915479,Entire home/apt,319,2,51,2018-07-29,3.76,5,130
+19181667,Laurel Cottage,14299946,Joy,,Pacific Grove,36.6194235292754,-121.92081162752183,Entire home/apt,260,1,72,2018-07-28,5.28,2,323
+19192445,NEW! 3BR Pacific Grove Villa - Walk to Beach!,126644773,Evolve Vacation Rental,,Pacific Grove,36.61389904931979,-121.91953066407252,Entire home/apt,1083,2,8,2018-05-18,0.85,3,0
+19213454,Walnut House,134461239,Tiffany,,Pacific Grove,36.62172031084403,-121.92462908574933,Entire home/apt,395,2,19,2018-07-27,1.45,1,67
+19273446,By The Sea - STR License Number 0412,31885381,Carie,,Pacific Grove,36.61844716419277,-121.90833557517138,Entire home/apt,150,2,102,2018-07-29,7.73,1,218
+19606480,Mermaid's Delight,137859136,Terri,,Pacific Grove,36.62726750298622,-121.91974243755544,Entire home/apt,275,1,61,2018-07-25,4.96,1,127
+19674285,"Dream Cottage in Pacific Grove, CA",110664679,Rhonda,,Pacific Grove,36.621710377976704,-121.9233238954822,Entire home/apt,169,3,21,2018-07-08,1.65,3,250
+19736001,Long term/month to month Cottage In Pacific Grove,1010770,Dolly,,Pacific Grove,36.61682354602529,-121.92481705482962,Entire home/apt,70,30,0,,,1,355
+19830907,NEWLY REMODELED Pacific Grove Home w/spa (#0406),26564284,Hank & Julie,,Pacific Grove,36.62672525543589,-121.92408630177752,Entire home/apt,255,2,23,2018-07-29,1.95,1,33
+19849140,Cherry Pickin 3 Br. PG Home,74476872,Kelly,,Pacific Grove,36.61274022549177,-121.92527131544334,Entire home/apt,350,2,5,2018-06-10,0.39,1,318
+19910607,Lover's Point Enchanting Cottage! Walk to Beach!,85335077,Marci,,Pacific Grove,36.62269126319486,-121.91939447985071,Entire home/apt,395,3,11,2018-06-27,1.06,1,116
+19994957,Beach House in the Pines,85109993,Tim & Laurel,,Pacific Grove,36.62424454048152,-121.9328794043987,Entire home/apt,542,2,25,2018-07-18,2.12,1,193
+20039140,Pacific Grove Stunner,83196048,Florence,,Pacific Grove,36.62622432137154,-121.92378155088393,Private room,160,1,64,2018-07-26,5.23,1,250
+20171635,Stunning Ocean View Townhouse,10624036,Merry,,Pacific Grove,36.617918513835164,-121.91175458056318,Entire home/apt,229,2,37,2018-07-24,3.30,5,88
+20190642,Outback Bungalow,58388459,Michele,,Pacific Grove,36.623464459891025,-121.92108596535317,Entire home/apt,168,2,19,2018-07-17,4.19,2,328
+20192720,Bright room with loft,1729167,Andrea,,Pacific Grove,36.61720317259208,-121.92009873253355,Private room,75,2,12,2018-07-28,1.02,1,0
+20229666,"3743 Pelican Peaks - Walk to Aquarium, Beach & Downtown, Available Concours!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61962106572469,-121.9091188171011,Entire home/apt,366,3,0,,,33,305
+20229668,"3749 Victorian Sanctuary by the Sea - Updated,Spacious, Close to Town & Beach",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62361813401109,-121.9224577504166,Entire home/apt,610,3,3,2018-03-21,0.30,33,209
+20229669,"3746 The Guest House - Walk to Downtown & Aquarium, Available Concours 2018!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62025546956894,-121.91006602330738,Entire home/apt,366,3,1,2017-08-20,0.09,33,186
+20229670,"3105 The 17th Street House ~ Beautifully Restored Victorian, Top Floor Master",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.6175604168023,-121.9204746562632,Entire home/apt,549,3,4,2018-03-18,0.29,33,45
+20229673,"3729 Ocean Park Sanctuary ~ Walk to the Beach, Restaurants & Shopping!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61914961091066,-121.92051456592321,Entire home/apt,360,3,2,2017-11-23,0.21,33,288
+20229679,"3705 Oceanview Serenity ~ Oceanfront, See Sunrise, Whales, Near Lover's Point",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62585959910072,-121.919275160708,Entire home/apt,366,3,2,2018-06-09,0.15,33,128
+20229689,"3704 Ship's Watch ~ Updated Vintage Victorian, Walk to Town, Designer Decor!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62122784019816,-121.92084405465,Entire home/apt,366,3,5,2018-07-13,0.32,33,264
+20229693,"3715 - Bliss by the Sea ~  Close to the Beach, Trails & the Aquarium!!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61835951587171,-121.90931469170047,Entire home/apt,397,3,4,2018-04-29,0.24,33,283
+20229694,"3724 Sea Glass Sanctuary ~ Bay Views, Walk to Recreation Trail and Ocean!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.63077190122031,-121.92578112887874,Entire home/apt,732,3,2,2018-02-19,0.37,33,91
+20229695,3726 Sea Palm Sanctuary ~ Wonderful Bay Views! Views of the Golf Course!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62770037363272,-121.9220373125079,Entire home/apt,549,3,3,2018-02-21,0.48,33,7
+20229696,"3718 Ocean Crest ~ Short Walk to the Beach & Golf Links, Available Concours!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.630458869549074,-121.92597767977232,Entire home/apt,488,3,1,,,33,247
+20229697,3717 Butterfly Landing ~ Large Oak Tree Lot with Bay View ~ Walk to Town,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61231798345655,-121.91783006894934,Entire home/apt,397,3,0,,,33,253
+20229698,3703 La Gloria Cottage-by-the-Sea ~ Walk to Town and Beach! Beautiful Design!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62212672169285,-121.92159970953257,Entire home/apt,366,3,1,2018-01-25,0.16,33,244
+20229699,3612 Storybook Cottage ~ Charming Updated Vintage Cottage! Plush Beds!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61797776444926,-121.91258111175199,Entire home/apt,366,3,2,2018-06-24,0.13,33,291
+20229702,3638 Bayview-by-the-Sea Monarch ~ Ocean View ~ Available Concours 2018!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62674366823694,-121.927752964771,Entire home/apt,336,3,1,2017-11-11,0.11,33,283
+20229703,3618 Villa Escondido ~ Luxurious ~ Ocean Views ~ Just Steps to the Seashore,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.620028385872054,-121.90938179990847,Entire home/apt,488,3,1,2018-04-16,0.28,33,50
+20229704,"3602 Seadance ~ Oceanfront, Amazing Views, Available Concours!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.635198151331615,-121.9271906331896,Entire home/apt,427,3,2,2018-04-29,0.24,33,128
+20229706,3639 Bayview-by-the-Sea Regent ~ Ocean View ~ Available Concours 2018!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.627966741902,-121.92802843199695,Entire home/apt,244,3,0,,,33,228
+20229708,3648 Seaside Sanctuary in the Pines ~ Walk to the Beach! Beautiful Design!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.6179783785891,-121.93284074597045,Entire home/apt,458,3,2,2017-12-10,0.11,33,237
+20229709,3640 Bayview-by-the-Sea Admiral ~ Ocean View ~ Luxurious Remodel ~ Near Beach,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62672868370793,-121.92819078806075,Entire home/apt,244,3,1,2018-02-18,0.18,33,217
+20229710,"3684 Jewel by the Sea ~ Updated, Luxurious, Walk to Town and the Beach",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.620887371412735,-121.92093498706855,Entire home/apt,519,3,0,,,33,87
+20229711,"3263 Villa by the Sea ~ Ocean Front, Walk to Aquarium, Available Concours!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.620278916242,-121.90798941551616,Entire home/apt,397,3,1,2017-08-21,0.09,33,289
+20229712,3646 Seashore Retreat ~ Beautiful Craftsman Design ~ Walk to the Beach,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61991142646436,-121.91545940426738,Entire home/apt,458,3,0,,,33,235
+20229713,3688 Nautilus ~ Ocean Views from the Decks! Luxurious Beds! Walk to Town!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.620557554505126,-121.9111323381534,Entire home/apt,458,3,0,,,33,225
+20229714,"3573 Captain's Castle ~ Historic, Stunning Ocean Views, Almost Oceanfront",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.6203910596717,-121.91083865194639,Entire home/apt,531,3,2,2017-10-16,0.16,33,260
+20229715,3509 Seabreeze ~ Walk to the Beach! Artist's Home! Plush Beds! Designer Decor,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61506888943706,-121.92980487876326,Entire home/apt,366,3,0,,,33,281
+20229716,"3554 Otter's Rest ~ Ocean Views, Gourmet Kitchen, Hot Tub, 1 Block to the Sea",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.63247589873828,-121.92654135467866,Entire home/apt,427,3,1,,,33,236
+20234455,A cozy quiet space to enjoy Monterey area,144185094,Pretty Monterey,,Pacific Grove,36.60386958195798,-121.92080500010236,Private room,105,7,5,2018-07-21,0.71,1,9
+20268378,Casa Terraza-Private space in prime location! 0426,134165553,Larry,,Pacific Grove,36.61770475112532,-121.9090599698148,Private room,109,2,56,2018-06-15,5.19,1,1
+20279454,Upstairs Studio in Pacific Grove,12030507,Brian,,Pacific Grove,36.61764290955602,-121.91332184281728,Entire home/apt,125,31,4,2018-06-02,0.35,1,64
+20358036,"Private Suite & Patio steps to Sea, Golf & 17 Mile",7411921,Katy,,Pacific Grove,36.63261091152707,-121.92728428573918,Private room,90,3,13,2018-03-16,1.33,1,0
+20361891,Sweet Pea,3190087,Monterey Bay Vacation Rentals,,Pacific Grove,36.62386379676555,-121.9181344947365,Entire home/apt,219,2,17,2018-06-17,1.57,2,293
+20404083,3096 Sanctuary by the Bay ~ Stunning Ocean Front Location! Walk to Aquarium!,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.6206895432385,-121.90770844050951,Entire home/apt,397,3,4,2018-07-07,0.58,33,154
+20404856,30 day min/pacific grove private apartment,2044999,Hillary,,Pacific Grove,36.63319921221047,-121.92367956209657,Entire home/apt,71,30,3,2018-07-07,0.65,1,290
+20407569,Pine Garden Retreat,145532424,Steven And Tracie,,Pacific Grove,36.63015920912015,-121.93261912616434,Entire home/apt,400,2,32,2018-07-27,2.83,1,276
+20412534,Pacific grove plaza 2 bedroom,27606939,Gabe,,Pacific Grove,36.62116574074278,-121.91805392687418,Entire home/apt,225,4,0,,,1,0
+20714115,P.G. Butterfly Park House,33162172,Craig,,Pacific Grove,36.62332942716674,-121.92690158529722,Entire home/apt,450,2,6,2018-05-27,0.71,1,245
+20741678,"3112 Lighthouse Sanctuary ~ Beautiful Spacious Home, Separate Guest Unit",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.62534705874325,-121.92689779350512,Entire home/apt,519,3,3,2017-12-03,0.28,33,249
+20741707,"3372 Ocean View Sanctuary ~ Panoramic Ocean Views, Available Concours 2018!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61781129144117,-121.91020158488978,Entire home/apt,366,3,1,2017-11-29,0.12,33,173
+21001580,Pacific Grove Beach House Cottage - license # 0422,23786707,Joy,,Pacific Grove,36.618348751978296,-121.91671954806792,Entire home/apt,130,2,34,2018-07-26,4.95,1,142
+21142337,Pacific Grove Beach House Near Monterey,19759469,Lee,,Pacific Grove,36.621738205812555,-121.92267233563501,Entire home/apt,350,2,22,2018-07-22,2.29,1,128
+21561209,Pacific Grove Cottage,156782703,Jamil,,Pacific Grove,36.61830888788754,-121.92013742496339,Entire home/apt,100,30,0,,,1,365
+21684961,Asilomar Beach House in Pacific Grove (Lic #0418),47288229,David And Michelle,,Pacific Grove,36.617445791718836,-121.93501402224851,Entire home/apt,1899,1,2,2018-03-28,0.35,1,3
+21981955,Sunset Inn Pacific Grove,160495920,Rishi,,Pacific Grove,36.63032829301414,-121.93217433006397,Private room,199,1,85,2018-07-16,10.63,1,243
+22048463,"""Pacific Jewel"" Close to Ocean, Golf, Spas Restaurants & Shops",161014914,MaryJane,,Pacific Grove,36.6275112568724,-121.92846758700563,Entire home/apt,400,3,39,2018-06-05,2.19,4,294
+22178195,"Pacific Petra Suite
+(PG License # 0420)",162016726,George Or Laila,,Pacific Grove,36.61862551505741,-121.91461737509273,Entire home/apt,230,1,52,2018-07-30,7.19,1,70
+22292297,Pacific Grove 2 bed charmer,162398854,Josh,,Pacific Grove,36.61356736925258,-121.9249539446613,Entire home/apt,300,2,8,2018-07-22,1.40,1,59
+22359257,Fairlawn Room - Seven Gables Full Service Inn,46785054,Seven Gables,,Pacific Grove,36.62341808851273,-121.91639513943908,Private room,219,1,3,2018-07-15,0.96,12,264
+22359614,Bellevue Room - Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62362516680067,-121.91480785481663,Private room,339,1,1,2018-02-05,0.17,12,262
+22666758,"Ocean View Cozy Adobe 2 bed/1 bath 
+(Lic #0403)",128301422,Carolyn,,Pacific Grove,36.60762096281497,-121.92032495317993,Entire home/apt,125,2,35,2018-07-25,6.14,2,110
+22713756,"3BR ""Cape Cod Retreat"" Luxury Home w/ Bay Views",54071948,Skip,,Pacific Grove,36.63423518551104,-121.92589875616598,Entire home/apt,374,3,2,2018-04-27,0.44,1,75
+22728696,3730 Anchors Away ~ Spectacular Oceanfront - Sleep to the Sounds of the Sea,140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.63571670236307,-121.92596406489723,Entire home/apt,610,3,0,,,33,250
+22728976,"3745 Sea Dream ~ Walk to Ocean, Downtown & Aquarium, Available Concours 2018!",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61844969453834,-121.9079479351118,Entire home/apt,366,3,0,,,33,209
+22747634,"3759 Pacific Grove Retreat - Walk to Aquarium, Cannery Row, Downtown",140243627,Sanctuary Vacation Rentals,,Pacific Grove,36.61780698403546,-121.9082447512758,Entire home/apt,336,3,0,,,33,186
+22752958,"Hearts Delight, walking distance to Restaurants, Shops and Beach",161014914,MaryJane,,Pacific Grove,36.62046410311611,-121.92155674178153,Entire home/apt,200,3,6,2018-07-07,0.50,4,294
+22953264,Magnificent Monterey Home Right on the Bay!,126644773,Evolve Vacation Rental,,Pacific Grove,36.61321902248076,-121.90752033970139,Entire home/apt,166,30,0,,,3,253
+23105743,Pacific Grove - Close To It All,2637697,Lori,,Pacific Grove,36.618886295684824,-121.9095091103958,Entire home/apt,100,30,2,2018-06-05,0.34,1,361
+23174941,4BR w/ 180-Degree Bay Views,154342553,Wes,,Pacific Grove,36.61656255032022,-121.90814930739263,Entire home/apt,193,31,0,,,1,302
+23254865,Ms Saals Sea Star · Ms Saals Sea Star,161014914,MaryJane,,Pacific Grove,36.614833007051026,-121.91314548599435,Entire home/apt,184,30,0,,,4,335
+23255937,Spacious Two bedroom at Pebble Beach Country Club Gate,161014914,MaryJane,,Pacific Grove,36.606320651888275,-121.93001907219832,Entire home/apt,145,30,0,,,4,336
+23291026,Pacific Grove Getaway Cottage (STR lic#0424),41664032,Terri,,Pacific Grove,36.617680630478034,-121.91346272118118,Entire home/apt,185,2,32,2018-07-28,6.67,1,246
+23398182,Whale Watch Room-The Old St. Angela Inn,174451078,The Old St. Angela Inn,,Pacific Grove,36.61902889933203,-121.91018002618954,Private room,215,2,0,,,1,0
+23452978,NEW! 2BR Pacific Grove House-Walk to Beach & Shops,126644773,Evolve Vacation Rental,,Pacific Grove,36.613926074019815,-121.92731720035984,Entire home/apt,550,2,4,2018-07-25,0.88,3,267
+24225058,Stunning Ocean View TownHome-Monthly Rental,10624036,Merry,,Pacific Grove,36.61820250121568,-121.91167440774319,Entire home/apt,170,30,0,,,5,319
+24749469,"Pebble Beach GEM, close to golf, beach & trails",21662094,Leslie,,Pacific Grove,36.600309185314885,-121.9402254657072,Entire home/apt,115,30,0,,,1,64
+24773264,Monterey Peninsula Ideal Accommodation,72001105,Kat,,Pacific Grove,36.62156280003992,-121.91915444443187,Entire home/apt,175,5,1,2018-06-18,0.68,1,174
+25015525,Spacious 1 bedroom Apt in Prime Location!!,36650647,Ibtisam,,Pacific Grove,36.617021068112685,-121.90639234840783,Entire home/apt,55,1,22,2018-07-14,8.68,1,0
+25281531,Rosedale Inn & Suites - King Suite,190984125,Rosedale Inn & Suites,,Pacific Grove,36.61891928850224,-121.93607595260436,Private room,169,1,3,2018-07-27,3,1,70
+26192700,Rocky Shores Room-Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.6235411080558,-121.91456293651994,Private room,339,1,1,2018-07-15,1,12,267
+26197377,Mariposa Room - Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62493846089897,-121.91652924237783,Private room,279,1,0,,,12,301
+26197786,Stevenson Room -Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.623411392205625,-121.91522223358838,Private room,239,1,1,2018-07-25,1,12,309
+26197911,Garden Room-Seven Gables Inn Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62473348489991,-121.91658001208923,Private room,219,1,0,,,12,286
+26198274,1/2 Block to Ocean-Jewell Cottage: 2 Bedroom Suite - Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62349326019528,-121.91481549149458,Entire home/apt,599,1,0,,,12,242
+26198464,Mayfair Room - Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62440597382807,-121.91668780990243,Private room,259,1,0,,,12,296
+26198705,Lover's Point Room-Seven Gables Full-Service Inn,46785054,Seven Gables,,Pacific Grove,36.62274397089138,-121.91623047421636,Private room,279,1,0,,,12,284
+26468647,SALLIE’S COTTAGE,43389940,Elizabeth,,Pacific Grove,36.62159846206771,-121.91935081156409,Entire home/apt,268,2,5,2018-07-22,5,2,306
+26924638,Super Walkable Beach Cottage,202594186,Rick,,Pacific Grove,36.61898380683454,-121.90990640626431,Entire home/apt,250,5,0,,,1,273
+27092841,Charming house between downtown and the beach,6763862,Ashley,,Pacific Grove,36.62223423660448,-121.91976079003396,Entire home/apt,200,30,0,,,1,150
