@@ -14,7 +14,7 @@ To generate a report that
 
 ## Data Source
 
-<img src="https://raw.githubusercontent.com/david880110/Airbnb-Data-Analytics/master/image/insideairbnb.png" width="250" height="100"/>
+<img src="https://raw.githubusercontent.com/david880110/Airbnb-Data-Analytics/master/image/insideairbnb.png" width="220" height="100"/>
 The data behind the Inside Airbnb site is sourced from publicly available information from the Airbnb site. The data has been analyzed, cleansed and aggregated where appropriate to faciliate public discussion.
 
 ## Findings 
